@@ -37,7 +37,8 @@ Link do deploy do projeto
 https://autonominas.netlify.app/
 ##
 <li>Nessa página a usuária deverá clicar em venha nos conhecer para ser direcionada a nossa página de login <li>
-![tela principal](https://i.imgur.com/lDJmrR7.png)
+  
+![tela principal]("https://i.imgur.com/lDJmrR7.png")
 ##
 
 
