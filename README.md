@@ -41,7 +41,7 @@ https://autonominas.netlify.app/
 ##
 <pa>Nessa página a usuária deverá clicar em venha nos conhecer para ser direcionada a nossa página de login <pa>
   
-
+![Tela Principal](https://user-images.githubusercontent.com/112204995/197652703-2e14b668-0a3b-4b24-b347-45ab942aa24c.png)
   
 ##
 
