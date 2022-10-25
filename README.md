@@ -33,12 +33,16 @@ Este projeto é idealizado por sete desenvolvedores FullStack, para o projeto in
 <img alt="Built With Luv" src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank"/>
 </div>
 ##
-Link do deploy do projeto
-https://autonominas.netlify.app/
-##
-<li>Nessa página a usuária deverá clicar em venha nos conhecer para ser direcionada a nossa página de login <li>
   
-![tela principal]("https://i.imgur.com/lDJmrR7.png")
+Link do deploy do projeto
+  
+https://autonominas.netlify.app/
+  
+##
+<pa>Nessa página a usuária deverá clicar em venha nos conhecer para ser direcionada a nossa página de login <pa>
+  
+
+  
 ##
 
 
