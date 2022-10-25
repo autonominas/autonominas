@@ -45,4 +45,47 @@ https://autonominas.netlify.app/
   
 ##
 
+![Tela login](https://user-images.githubusercontent.com/112204995/197652740-46c174a4-fd37-4c32-b8ca-eacc65e8ef6f.png)
+  
+##
+  
+![Erro login](https://user-images.githubusercontent.com/112204995/197653160-75f3e180-9719-4866-9e9e-5fc263618182.png)
+
+##
+  
+![Logado com sucesso](https://user-images.githubusercontent.com/112204995/197653173-6f3128d3-d291-4393-9c6e-1c701ed751fc.png)
+  
+##
+
+![Mostra senha](https://user-images.githubusercontent.com/112204995/197653141-75f8b717-aed3-4351-8eb6-00b326f05fab.png)
+  
+##
+  
+![Tela cadastro](https://user-images.githubusercontent.com/112204995/197652760-d1e0a31b-b445-4e07-837f-66381af88d37.png)
+  
+##
+  
+![Tela Home](https://user-images.githubusercontent.com/112204995/197652814-2e3ea032-dfef-4ea2-8c50-13fbd82b7c33.png)
+  
+##
+  
+![Tela Postagens](https://user-images.githubusercontent.com/112204995/197652876-19456a42-8333-44e1-a51c-ea393c3f5616.png)
+  
+##
+  
+![Form cad postagem](https://user-images.githubusercontent.com/112204995/197652925-e3a1ad03-43fa-4e22-bdaa-e275e24e53de.png)
+  
+##
+  
+![Tela Feed](https://user-images.githubusercontent.com/112204995/197653015-de949a13-4152-4361-a521-f12a5ec5349f.png)
+  
+##
+  
+![Tela de videos](https://user-images.githubusercontent.com/112204995/197653019-2d6d0afa-f586-4241-a888-6e385d01f6c7.png)
+  
+##
+  
+![Tela de Temas](https://user-images.githubusercontent.com/112204995/197653061-fb7704d5-be27-4352-837a-0cb60f9c0381.png)
+
+
 
